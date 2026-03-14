@@ -126,16 +126,20 @@ Coimbatore, India
 
 <p align="left">
 
-<a href="https://linkedin.com/in/gssandheep9">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:gssandheep9@gmail.com">
+<img src="https://img.shields.io/badge/Email-gssandheep9%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:gssandheep9@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://linkedin.com/in/gssandheep9">
+<img src="https://img.shields.io/badge/LinkedIn-Sandheep%20G%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sandheeppp">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-Sandheeppp-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/sandheeppp">
+<img src="https://img.shields.io/badge/Instagram-@sandheeppp-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
