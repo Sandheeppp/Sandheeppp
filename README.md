@@ -84,18 +84,6 @@ React • Node.js • Express.js • MongoDB
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sandheeppp&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandheeppp&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📚 Research
 
 **Disease Identification Using Deep Learning-Based Explainable AI Approaches for Tomato Leaf Disease Progression**
