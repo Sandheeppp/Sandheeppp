@@ -133,9 +133,3 @@ Coimbatore, India
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sandheeppp&color=blue&style=flat-square"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
