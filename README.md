@@ -127,10 +127,9 @@ Coimbatore, India
 </a>
 
 <a href="https://instagram.com/sandheeppp">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40"/>
 </a>
 
 </p>
-
 
 ---
